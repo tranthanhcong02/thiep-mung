@@ -1,6 +1,6 @@
 const nameGirl = 'Em';
 const giftUrl = 'http://nodemy.vn';
-const eventName = 'Dáng Xinh zui zẻ';
+const eventName = 'Dáng Xinh zui zẻ<3';
 const titleCard = 'Tặng Em ';
 const contentCard = 'Chúc em có 1 năm tràn ngập niềm vui và những nụ cười. Mong điều đẹp nhất sẽ đến với em trong năm nay và cả những năm sau';
 
